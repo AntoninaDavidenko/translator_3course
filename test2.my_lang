@@ -1,0 +1,11 @@
+program my_program
+var
+    x :: integer;
+    y :: integer;
+    k :: real;
+
+start
+    y == 2 + 2
+    x == 3 + (-2)
+    k == 1 + 5 - 4 / 2
+stop
